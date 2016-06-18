@@ -10,6 +10,7 @@
 (ido-mode 1)
 (ido-vertical-mode t)
 (ido-at-point-mode)
+(ido-ubiquitous 1)
 (smex-initialize)
 (global-set-key (kbd "M-x") 'smex)
 
@@ -38,5 +39,7 @@
 
 (setq sml/no-confirm-load-theme t)
 (sml/setup)
+
+(setq magit-completing-read-function 'magit-ido-completing-read)
 
 (provide 'packages)

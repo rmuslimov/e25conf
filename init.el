@@ -15,6 +15,13 @@
 (add-to-list 'load-path (format "%slisp/playground" EMACSHOME))
 (load-file (format "%slisp/playground/init.el" EMACSHOME))
 
+;; My custom elisp functions
+(add-to-list 'load-path (format "%slisp/python" EMACSHOME))
+(load-file (format "%slisp/python/init.el" EMACSHOME))
+
 (find-file (format "%sinit.el" EMACSHOME))
+
+(yas-global-mode 1)
+(add-to-list 'yas-snippet-dirs (format "%ssnippets" EMACSHOME))
 
 (message "Emacs 25!")

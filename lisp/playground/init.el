@@ -3,3 +3,4 @@
 (require 'local-phab)
 (require 'local-getgoing)
 (require 'local-dired)
+(require 'local-sandbox)

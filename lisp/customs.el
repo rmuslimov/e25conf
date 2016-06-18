@@ -50,5 +50,14 @@
 
 (global-set-key (kbd "C-x '") 'toggle-truncate-lines)
 
+(defun my-pretty-lambda ()
+  "make some word or string show as pretty Unicode symbols"
+  (setq prettify-symbols-alist
+        '(
+          ("lambda" . 955) ; λ
+          )))
+(add-hook 'emacs-lisp-mode-hook 'my-pretty-lambda)
+(global-prettify-symbols-mode 1)
+
 ;; ends
 (provide 'customs)

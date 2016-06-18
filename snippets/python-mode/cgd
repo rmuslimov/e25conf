@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+# name: cgd
+# --
+# coding: utf-8
+"""
+`(let* ((relative_p (f-relative (buffer-file-name) (vc-git-root (buffer-file-name))))
+        (package_name (s-replace "/" "." (s-replace ".py" "" relative_p))))
+ (format "%s\n%s\n%s\n"
+  (s-repeat (length package_name) "=")
+  package_name
+  (s-repeat (length package_name) "=")
+  ))
+`
+"""
