@@ -1,0 +1,2 @@
+* Installing dependencies from CLI:
+  $ /usr/local/Cellar/emacs/25.0/Emacs.app/Contents/MacOS/Emacs -Q --script /Users/rmuslimov/.cask/cask-cli.el -- install
