@@ -56,6 +56,8 @@
 (put 'set-goal-column 'disabled nil)
 (put 'downcase-region 'disabled nil)
 
+(add-hook 'after-init-hook 'global-company-mode)
+
 (global-set-key (kbd "C-x '") 'toggle-truncate-lines)
 
 (defun my-pretty-lambda ()

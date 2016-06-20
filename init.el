@@ -1,4 +1,4 @@
-setq EMACSHOME "~/projects/emacsworkshop/e25/")
+(setq EMACSHOME "~/projects/emacsworkshop/e25/")
 (require 'cask "/usr/local/Cellar/cask/0.7.2/cask.el")
 (cask-initialize EMACSHOME)
 

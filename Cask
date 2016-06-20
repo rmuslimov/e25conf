@@ -2,6 +2,7 @@
 (source melpa)
 
 (depends-on "avy")
+(depends-on "autopair")
 (depends-on "bash-completion")
 (depends-on "beacon")
 (depends-on "browse-kill-ring")
@@ -11,6 +12,7 @@
 (depends-on "clojure-mode")
 (depends-on "company")
 (depends-on "dash")
+(depends-on "flycheck")
 (depends-on "edit-server")
 (depends-on "edn")
 (depends-on "epc")

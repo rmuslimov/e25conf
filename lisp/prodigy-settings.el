@@ -94,6 +94,21 @@
   :cwd "/Users/rmuslimov/projects/airborne/"
   :tags '(work)
   :kill-signal 'sigkill)
+(prodigy-define-service
+  :name "Logstash"
+  :command "logstash"
+  :path '("./bin")
+  :args '("agent" "-f" "~/projects/gaylord/chains/stage/shares/logstash.conf")
+  :cwd "/Users/rmuslimov/projects/logstash/"
+  :tags '(work elk)
+  :kill-signal 'sigkill)
+(prodigy-define-service
+  :name "Kibana"
+  :command "kibana"
+  :path '("./bin")
+  :cwd "/Users/rmuslimov/projects/kibana/"
+  :tags '(work elk)
+  :kill-signal 'sigkill)
 
 (defun prodigy-start-by-tag (tag)
   "Start all services having tag."
