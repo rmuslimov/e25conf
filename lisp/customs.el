@@ -5,9 +5,13 @@
 (setq mac-option-modifier 'super)
 (setq ns-function-modifier 'hyper)
 
-(set-default-font "Consolas-11")
+(global-set-key "\M-sr" 'replace-string)
+(global-set-key "\C-cs" 'shell)
+(global-set-key "\C-cf" 'rgrep)
+
+(set-default-font "Consolas-12")
 (set-fontset-font "fontset-default" 'cyrillic '("consolas" . "utf-8"))
-(set-face-attribute 'default nil :height 125)
+(set-face-attribute 'default nil :height 145)
 
 (setq inhibit-startup-message t)
 (setq default-tab-width 4)
@@ -29,6 +33,10 @@
 (global-set-key [f8] 'linum-mode)
 (global-set-key [f11] 'ibuffer)
 (global-set-key [f10] 'bookmark-bmenu-list)
+
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
+(global-set-key (kbd "C-.") 'next-buffer)
+(global-set-key (kbd "C-,") 'previous-buffer)
 
 (setq inhibit-startup-message t)
 (setq default-tab-width 4)

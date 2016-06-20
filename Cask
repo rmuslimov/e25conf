@@ -13,6 +13,7 @@
 (depends-on "dash")
 (depends-on "edit-server")
 (depends-on "edn")
+(depends-on "epc")
 (depends-on "exec-path-from-shell")
 (depends-on "f")
 (depends-on "flycheck")

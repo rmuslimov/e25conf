@@ -8,18 +8,30 @@
 
 (defun getgoing--project-path (project)
   (f-join "~/projects" (symbol-name project)))
- 
+
 (defun getgoing-dependencies-path ()
   (s-join ":" (-map 'getgoing--project-path dependency-projects)))
 
+
+(defun python-env-for-project (name)
+  "Generate python env variables."
+  (let* ((project-name (symbol-name name))
+		 (venv (expand-file-name (format "~/.virtualenvs/%s" project-name))))
+  `(("PATH" . ,(expand-file-name (format "~/.virtualenvs/%s/bin:$PATH;" project-name)))
+	("PYTHONHOME" . ,venv)
+	("PYTHONPATH" . ,(getgoing--project-path name))
+	("VIRTUAL_ENV" . ,venv)
+	("PYTHONIOENCODING" . "utf-8"))))
+
 (defun getgoing--get-env-for-project (name)
   "Get env variables format given project."
-  (let* ((project-name (symbol-name name)))	
-  `(("PATH" . ,(format "~/.virtualenvs/%s/bin:$PATH;" project-name))
-	("PYTHONHOME" . ,(format "~/.virtualenvs/%s" project-name))
-	("PYTHONPATH" . ,(format "%s:%s" (getgoing-dependencies-path) (getgoing--project-path name)))
-	("VIRTUAL_ENV" . ,(format "~/.virtualenvs/%s" project-name))
-	("PYTHONIOENCODING" . "utf-8"))))
+  (let* ((project-name (symbol-name name))
+		 (venv (expand-file-name (format "~/.virtualenvs/%s" project-name))))
+  `(("PATH" . ,(expand-file-name (format "~/.virtualenvs/%s/bin:$PATH;" project-name)))
+	("PYTHONHOME" ,venv)
+	("PYTHONPATH" ,(format "%s:%s" (getgoing--project-path name) (getgoing-dependencies-path)))
+	("VIRTUAL_ENV" ,venv)
+	("PYTHONIOENCODING" "utf-8"))))
 
 (defun getgoing--get-ready-env-for-project (name)
   "Ready to paste list of export for projects."
@@ -44,8 +56,6 @@
 		 (get-buffer-process (current-buffer))
 		 (getgoing--get-ready-env-for-project name))))))
 
-;; (ido-everywhere t)
+(global-set-key (kbd "C-c RET p s") 'setup-shell-project)
 
-(global-set-key (kbd "C-c p s") 'setup-shell-project)
-		  
 (provide 'getgoing-python)
