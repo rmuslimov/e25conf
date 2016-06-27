@@ -32,6 +32,7 @@
 	:name (intern (format "%s-tag" item))
 	:env (getgoing--get-env-for-project item)))
 
+;; (getgoing--get-env-for-project 'airborne)
 ;; Setup python services
 (dolist (appname (-map 'car prodigy-standard-python-service))
   (let* ((appname-s (symbol-name appname))

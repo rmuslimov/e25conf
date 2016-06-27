@@ -5,7 +5,6 @@
      (not (apply ,function args))))
 (require 'epc)
 
-(setq epc (start-epc))
 
 (defun start-epc ()
   (let* ((rope-buffer (rope-process-buffer 'ropeepc))
@@ -29,6 +28,8 @@
 	  (let ((default-directory (expand-file-name (format "~/projects/%s" envname-s))))
 		(start-process "rope-process" buffer "python" "main.py")))
 	buffer))
+
+(setq epc (start-epc))
 
 (defun rope--process-get-definition-response (response)
   (when (plist-get response :status)
@@ -70,4 +71,4 @@
 ;; Request peer's methods
 (message "%S" (epc:sync epc (epc:query-methods-deferred epc)))
 
-(epc:stop-epc epc)
+;; (epc:stop-epc epc)
