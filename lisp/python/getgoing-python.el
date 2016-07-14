@@ -47,13 +47,12 @@
 	(if (get-buffer new-buffer-name)
 		(switch-to-buffer new-buffer-name)
 	  (progn
-		(shell)
-		(rename-buffer new-buffer-name)
-
-		;; Set variable to specific project
-		(process-send-string
-		 (get-buffer-process (current-buffer))
-		 (getgoing--get-ready-env-for-project name))))))
+		(let ((new-buffer (switch-to-buffer new-buffer-name)))
+		  ;; Set variable to specific project
+		  (shell new-buffer)
+		  (process-send-string
+		   (get-buffer-process new-buffer)
+		   (getgoing--get-ready-env-for-project name)))))))
 
 (global-set-key (kbd "C-c l p s") 'setup-shell-project)
 

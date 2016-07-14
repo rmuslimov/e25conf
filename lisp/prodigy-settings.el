@@ -50,7 +50,7 @@
 (prodigy-define-service
   :name "Memcached"
   :command "/usr/local/bin/memcached"
-  :args '("-I" "1M" "-m" "2048")
+  :args '("-I" "16M" "-m" "2048")
   :cwd "~"
   :tags '(work util)
   :kill-signal 'sigkill)
