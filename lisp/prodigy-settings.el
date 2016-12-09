@@ -1,5 +1,4 @@
 
-
 (defconst prodigy-standard-python-service
   '((airborne :args ("manage.py" "runserver" "5000"))
     (airborne-gunicorn
@@ -85,6 +84,20 @@
   :name "Redis"
   :command "redis-server"
   :path '("/usr/local/Cellar/redis/3.0.7/bin/")
+  :tags '(work)
+  :kill-signal 'sigkill)
+(prodigy-define-service
+  :name "Zookeeper"
+  :args '("./bin/zookeeper-server-start.sh" "config/zookeeper.properties")
+  :command "bash"
+  :cwd "/Users/rmuslimov/projects/kafka"
+  :tags '(work)
+  :kill-signal 'sigkill)
+(prodigy-define-service
+  :name "Kafka"
+  :args '("./bin/kafka-server-start.sh" "config/server.properties")
+  :command "bash"
+  :cwd "/Users/rmuslimov/projects/kafka"
   :tags '(work)
   :kill-signal 'sigkill)
 (prodigy-define-service

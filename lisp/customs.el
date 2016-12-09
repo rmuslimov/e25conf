@@ -9,9 +9,9 @@
 (global-set-key "\C-cs" 'shell)
 (global-set-key "\C-cf" 'rgrep)
 
-(set-default-font "Consolas-12")
+;; (set-default-font "Consolas-12")
 (set-fontset-font "fontset-default" 'cyrillic '("consolas" . "utf-8"))
-(set-face-attribute 'default nil :height 145)
+(set-face-attribute 'default nil :height 125)
 
 (setq inhibit-startup-message t)
 (setq default-tab-width 4)
@@ -77,6 +77,11 @@
     (fundamental-mode)))
 
 (add-hook 'find-file-hook 'my-find-file-check-make-large-file-read-only-hook)
+
+;; (add-to-list
+;;  'comint-preoutput-filter-functions
+;;  (lambda (output)
+;;    (replace-regexp-in-string "\\[[0-9]+[GK]" "" output)))
 
 ;; ends
 (provide 'customs)

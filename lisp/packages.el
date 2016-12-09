@@ -27,6 +27,7 @@
 (define-key global-map (kbd "C-c j") 'ace-jump-mode)
 
 (add-to-list 'auto-mode-alist '("\\.es$" . es-mode))
+(add-to-list 'auto-mode-alist '("\\.js$" . js2-jsx-mode))
 
 (setq company-auto-complete t)
 (setq company-minimum-prefix-length 2)

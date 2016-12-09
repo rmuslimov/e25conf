@@ -60,6 +60,6 @@ BEG and END (region to sort)."
             (replace-match "" nil nil))
           (goto-char next-line))))))
 
-
+(global-set-key (kbd "C-;") 'avy-goto-char)
 
 (provide 'local-utils)

@@ -4,3 +4,7 @@
 (require 'local-getgoing)
 (require 'local-dired)
 (require 'local-sandbox)
+(require 'local-fira)
+(require 'local-projectile)
+(require 'local-traad)
+(require 'local-js)

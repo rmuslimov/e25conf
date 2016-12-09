@@ -1,0 +1,400 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/" . "amadeus/")
+ ("/Users/rmuslimov/projects/fokker/fokker/hotels/parsing/" . "tests/")
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/" . "gds/")
+ ("/Users/rmuslimov/projects/airborne/midoffice/api/views/" . "companies/")
+ ("/Users/rmuslimov/projects/airborne/midoffice/api/" . "views/")
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/companies/" . "sections/")
+ ("/Users/rmuslimov/projects/airborne/midoffice/" . "api/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/partners/" . "galactic/")
+ ("/Users/rmuslimov/Dropbox/" . "Screenshots/")
+ ("/Users/rmuslimov/projects/airborne/airborne/hotels/booking/" . "forms/")
+ ("/Users/rmuslimov/projects/airborne/airborne/hotels/" . "booking/")
+ ("/Users/rmuslimov/projects/sigrocloud/frontend/src/" . "utils/")
+ ("/Users/rmuslimov/projects/sigrocloud/frontend/" . "src/")
+ ("/Users/rmuslimov/projects/fasttrace/fasttrace/" . "web/")
+ ("/Users/rmuslimov/projects/atlas/atlas/tspm/" . "tests/")
+ ("/Users/rmuslimov/projects/atlas/atlas/travelport/" . "remarks/")
+ ("/Users/rmuslimov/projects/quicksilver/quicksilver/struct/" . "hotels/")
+ ("/Users/rmuslimov/projects/quicksilver/quicksilver/sessions/" . "responses/")
+ ("/Users/rmuslimov/projects/courtyard/courtyard/" . "storage/")
+ ("/Users/rmuslimov/projects/courtyard/" . "courtyard/")
+ ("/Users/rmuslimov/projects/xml/fp-tests/" . "fpinvoice/")
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/data/" . "schemas/")
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/tests/" . "responses/")
+ ("/Users/rmuslimov/projects/airborne/static/airborne/cljs/" . "cbt/")
+ ("/Users/rmuslimov/.virtualenvs/airborne/lib/python2.7/site-packages/celery/" . "worker/")
+ ("/Users/rmuslimov/.virtualenvs/airborne/lib/python2.7/site-packages/" . "celery/")
+ ("/Users/rmuslimov/.virtualenvs/airborne/lib/python2.7/" . "site-packages/")
+ ("/Users/rmuslimov/projects/sigrocloud/venv/src/" . "rest-framework/")
+ ("/Users/rmuslimov/projects/cessna/cessna/cli/" . "commands/")
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/parsing/" . "tests/")
+ ("/Users/rmuslimov/galactic/xmls/" . "fwservicerequest13762ffgalacticproblemwithbook/")
+ ("/Users/rmuslimov/.virtualenvs/airborne/lib/" . "python2.7/")
+ ("/Users/rmuslimov/projects/bowman/bowman/api/search/" . "tests/")
+ ("/Users/rmuslimov/projects/fokker/fokker/sessions/" . "tests/")
+ ("/Users/rmuslimov/projects/fokker/fokker/hotels/" . "parsing/")
+ ("/Users/rmuslimov/projects/fokker/fokker/cli/" . "commands/")
+ ("/Users/rmuslimov/projects/hyatt/hyatt/params/" . "validators/")
+ ("/Users/rmuslimov/projects/hyatt/hyatt/lib/pnr_formatting/" . "tests/")
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/management/" . "commands/")
+ ("/Users/rmuslimov/projects/sigrocloud/venv/lib/python3.5/site-packages/" . "rest_framework_jwt/")
+ ("/Users/rmuslimov/projects/radisson/radisson/" . "tests/")
+ ("/Users/rmuslimov/Downloads/" . "clojure-client/")
+ ("/Users/rmuslimov/projects/atlas/atlas/amadeus/" . "tests/")
+ ("/Users/rmuslimov/org/gcps/" . "timesheet/")
+ ("/Users/rmuslimov/galactic/cessna/cessna/amadeus/" . "tasks/")
+ ("/Users/rmuslimov/galactic/cessna/cessna/" . "book/")
+ ("/Users/rmuslimov/galactic/cessna/" . "cessna/")
+ ("/Users/rmuslimov/galactic/saab/saab/" . "core/")
+ ("/Users/rmuslimov/galactic/saab/" . "saab/")
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/" . "tests/")
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/" . "management/")
+ ("/Users/rmuslimov/projects/cessna/cessna/book/" . "commands/")
+ ("/Users/rmuslimov/projects/cessna/cessna/" . "hotels/")
+ ("/Users/rmuslimov/projects/hyatt/" . "hyatt/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/flights/" . "book/")
+ ("/Users/rmuslimov/projects/radisson/" . "radisson/")
+ ("/Users/rmuslimov/projects/atlas/atlas/" . "travelport/")
+ ("/Users/rmuslimov/galactic/courtyard/" . "courtyard/")
+ ("/Users/rmuslimov/projects/sigrocloud/dist/" . "client/")
+ ("/Users/rmuslimov/projects/bowman/bowman/api/" . "search/")
+ ("/Users/rmuslimov/projects/bowman/bowman/" . "web/")
+ ("/Users/rmuslimov/projects/bowman/" . "bowman/")
+ ("/Users/rmuslimov/projects/multikey/" . "create_registration/")
+ ("/Users/rmuslimov/galactic/quicksilver/quicksilver/struct/" . "hotels/")
+ ("/Users/rmuslimov/galactic/quicksilver/quicksilver/" . "struct/")
+ ("/Users/rmuslimov/galactic/quicksilver/" . "quicksilver/")
+ ("/Users/rmuslimov/projects/hrs/" . "amadeus-hrs-certification/")
+ ("/Users/rmuslimov/projects/gaylord/chains/" . "stage/")
+ ("/Users/rmuslimov/projects/xml/" . "amadeus-multiRO/")
+ ("/Users/rmuslimov/projects/fasttrace/" . "fasttrace/")
+ ("/Users/rmuslimov/projects/quicksilver/quicksilver/" . "sessions/")
+ ("/Users/rmuslimov/projects/quicksilver/" . "quicksilver/")
+ ("/Users/rmuslimov/projects/fokker/fokker/" . "hotels/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/core/" . "zenith/")
+ ("/Users/rmuslimov/projects/sigrocloud/sigrocloud/core/" . "tests/")
+ ("/Users/rmuslimov/galactic/impala/impala/" . "hotels/")
+ ("/Users/rmuslimov/galactic/impala/" . "impala/")
+ ("/Users/rmuslimov/projects/atlas/" . "atlas/")
+ ("/Users/rmuslimov/galactic/atlas/atlas/" . "ean/")
+ ("/Users/rmuslimov/galactic/atlas/" . "atlas/")
+ ("/Users/rmuslimov/projects/django-rest-framework/" . "rest_framework/")
+ ("/Users/rmuslimov/projects/yakovlev/src/" . "gdsconsole/")
+ ("/Users/rmuslimov/projects/yakovlev/" . "src/")
+ ("/Users/rmuslimov/projects/clojure/" . "specd/")
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/" . "data/")
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/" . "js/")
+ ("/Users/" . "rmuslimov/")
+ ("/Users/rmuslimov/projects/cessna/" . "cessna/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/hotels/hotel_booking/templates/" . "confirmation/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/hotels/hotel_booking/" . "templates/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/hotels/" . "hotel_core/")
+ ("/Users/rmuslimov/projects/fokker/" . "fokker/")
+ ("/Users/rmuslimov/projects/sigrocloud/sigrocloud/" . "core/")
+ ("/Users/rmuslimov/projects/hyatt/hyatt/lib/" . "pnr_formatting/")
+ ("/Users/rmuslimov/projects/hyatt/hyatt/" . "lib/")
+ ("/Users/rmuslimov/org/" . "gcps/")
+ ("/Users/rmuslimov/projects/sigrocloud/venv/lib/python3.5/" . "site-packages/")
+ ("/Users/rmuslimov/projects/sigrocloud/venv/lib/" . "python3.5/")
+ ("/Users/rmuslimov/projects/sigrocloud/venv/" . "src/")
+ ("/Users/rmuslimov/projects/sigrocloud/" . "venv/")
+ ("/Users/rmuslimov/galactic/airborne/airborne/" . "partners/")
+ ("/Users/rmuslimov/galactic/airborne/" . "airborne/")
+ ("/Users/rmuslimov/projects/airborne/airborne/core/" . "accounts/")
+ ("/Users/rmuslimov/projects/airborne/airborne/" . "core/")
+ ("/Users/rmuslimov/galactic/" . "cessna/")
+ ("/Users/rmuslimov/projects/gaylord/ansible/roles/yakovlev/" . "files/")
+ ("/Users/rmuslimov/projects/gaylord/ansible/roles/" . "yakovlev/")
+ ("/Users/rmuslimov/projects/gaylord/ansible/" . "roles/")
+ ("/Users/rmuslimov/projects/gaylord/" . "ansiblev2/")
+ ("/Users/rmuslimov/projects/airborne/static/" . "midoffice/")
+ ("/Users/rmuslimov/projects/airborne/" . "airborne/")
+ ("/Users/rmuslimov/.virtualenvs/airborne/" . "lib/")
+ ("/Users/rmuslimov/.virtualenvs/" . "airborne/")
+ ("/Users/rmuslimov/projects/" . "yakovlev/")
+ ("/Users/rmuslimov/.emacs.d/lisp/" . "python/")
+ ("/Users/rmuslimov/.emacs.d/" . "lisp/")
+ ("/Users/rmuslimov/" . "projects/")
+ ("/usr/local/Cellar/emacs/25.0/" . "bin/")
+ ("/usr/local/Cellar/emacs/" . "25.0/")
+ ("/usr/local/Cellar/" . "emacs/")
+ ("/usr/local/" . "Cellar/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/rmuslimov/org/gcps/"
+ "/Users/rmuslimov/projects/yakovlev/"
+ "/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/amadeus/"
+ "/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/sabre/"
+ "/Users/rmuslimov/projects/"
+ "/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/travelport/"
+ "/Users/rmuslimov/.ssh/"
+ "/Users/rmuslimov/projects/browse-at-remote/"
+ "/Users/rmuslimov/.lein/"
+ "/Users/rmuslimov/projects/quicksilver/quicksilver/sessions/"
+ "/Users/rmuslimov/projects/quicksilver/"
+ "/Users/rmuslimov/org/gcps/timesheet/"
+ "/Users/rmuslimov/org/"
+ "/Users/rmuslimov/projects/hyatt/hyatt/lib/pnr_formatting/"
+ "/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/"
+ "/Users/rmuslimov/projects/yakovlev/src/gdsconsole/"
+ "/Users/rmuslimov/galactic/airborne/airborne/partners/galactic/"
+ "/Users/rmuslimov/galactic/airborne/"
+ "/Users/rmuslimov/projects/sigrocloud/"
+ "/Users/rmuslimov/projects/airborne/"
+ "/Users/rmuslimov/projects/airborne/midoffice/api/views/"
+ "/Users/rmuslimov/projects/sigrocloud/deploy/"
+ "/Users/rmuslimov/projects/cessna/"
+ "/Users/rmuslimov/projects/airborne/static/midoffice/js/data/"
+ "/Users/rmuslimov/galactic/airborne/airborne/hotels/hotel_ui/templates/jstmpl/hotels/"
+ "/Users/rmuslimov/projects/fokker/fokker/hotels/parsing/tests/"
+ "/Users/rmuslimov/projects/radisson/radisson/schemas/"
+ "/Users/rmuslimov/projects/xml/"
+ "/Users/rmuslimov/projects/quicksilver/quicksilver/pgcrypto/"
+ "/Users/rmuslimov/"
+ "/Users/rmuslimov/projects/airborne/static/midoffice/js/newforms/"
+ "/Users/rmuslimov/projects/radisson/radisson/"
+ "/Users/rmuslimov/projects/fokker/fokker/hotels/"
+ "/Users/rmuslimov/projects/airborne/midoffice/api/views/companies/"
+ "/Users/rmuslimov/projects/airborne/static/midoffice/js/companies/sections/"
+ "/Users/rmuslimov/projects/hyatt/hyatt/params/"
+ "/Users/rmuslimov/projects/airborne/airborne/"
+ "/Users/rmuslimov/projects/airborne/airborne/core/accounts/management/commands/"
+ "/Users/rmuslimov/projects/hyatt/hyatt/"
+ "/Users/rmuslimov/projects/hyatt/hyatt/params/validators/"
+ "/Users/rmuslimov/galactic/airborne/airborne/partners/"
+ "/Users/rmuslimov/projects/airborne/static/midoffice/js/data/schemas/"
+ "/Users/rmuslimov/Dropbox/Screenshots/"
+ "/Users/rmuslimov/projects/airborne/airborne/core/accounts/eti/"
+ "/Users/rmuslimov/projects/airborne/airborne/hotels/booking/forms/"
+ "/Users/rmuslimov/projects/airborne/airborne/hotels/views/"
+ "/Users/rmuslimov/projects/sigrocloud/sigrocloud/core/"
+ "/Users/rmuslimov/projects/sigrocloud/frontend/src/utils/"
+ "/Users/rmuslimov/projects/sigrocloud/frontend/src/reducers/"
+ "/Users/rmuslimov/projects/airborne/airborne/settings/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "transaction.txt"
+ "notes.org"
+ "apollo.csv"
+ "1.txt"
+ "core.clj"
+ "apollo-125.csv"
+ "known_hosts"
+ "config"
+ "project.clj"
+ "browse-at-remote.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/rmuslimov/.emacs.d/" (22602 22184 0 0) "test.sh~" "snippets/" "smex-items" "readme.org" "projectile-bookmarks.eld" "notes.org~" "notes.org" "lisp/" "init.el~" "init.el" "ido.last~" "ido.last" "Cask~" "Cask" "bookmarks" "auto-save-list/" ".python-environments/" ".gitignore~" ".gitignore" ".git/" ".cask/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/" (22602 22166 0 0) "test/" "target/" "src/" "resources/" "requirements.txt" "README.md" "project.clj" "Procfile" "figwheel_server.log" "doc/" "dev-resources/" "dev/" "1.txt~" "1.csv~" ".lein-failures" ".lein-env~" ".lein-env" ".gitignore" ".git/" ".default-lein-env" ".arcconfig~" ".arcconfig" "../" "./")
+
+ ("/Users/rmuslimov/" (22601 64877 0 0) "VirtualBox VMs/" "usr/" "tmp/" "temp-9250.rdb" "target/" "Snapshots/" "sessions" "rmuslimov-vpn/" "Public/" "projects/" "pip/" "Pictures/" "pgadmin.log" "org/" "OneDrive/" "node_modules/" "News/" "Music/" "Movies/" "Mail/" "Library/" "keys/" "Google Drive/" "galactic/" "dump.rdb" "ds-160.txt" "Dropbox/" "Downloads/" "Documents/" "docs.txt~" "Desktop/" "bin/" "Applications/" ".yjp/" ".virtualenvs/" ".v8flags.5.1.281.81.rmuslimov.json" ".v8flags.4.6.85.31.rmuslimov.json" ".Trash/" ".telnet_history" ".subversion/" ".ssh/" ".sqltabs/" ".sincedb_0a756a8f5ac0244dac475f91d9fffbd3" ".s3cfg-ga" ".s3cfg" ".rediscli_history" ".python_history" ".python-eggs/" ".psql_history" ".previous.unread" ".previous.important" ".pgpass" ".pgadmin_histoqueries" ".oracle_jre_usage/" ".old.emacs.d/" ".offlineimaprc~" ".offlineimaprc" ".offlineimap/" ".nrepl-history" ".npm/" ".notmuch-config~" ".notmuch-config" ".node-gyp/" ".newsrc-dribble" ".netrc" ".matplotlib/" ".m2/" ".local/" ".lein_history" ".lein-kiries/" ".lein/" ".keys/" ".karabiner.d/" ".JIRAClient/" ".ipython/" ".ievms/" ".htoprc" ".hgignore_global" ".heroku/" ".gnupg/" ".gitignore_global" ".gitconfig" ".gem/" ".erlang.cookie" ".emulator_console_auth_token" ".emacs.d/" ".ec2/" ".eagle~" ".eagle" ".e25" ".dvdcss/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".cask/" ".cargo/" ".cache/" ".bundler/" ".boto~" ".boto" ".boot/" ".bashrc~" ".bashrc" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".babel.json" ".authinfo" ".assistant-store" ".assistant-plugins" ".assistant" ".arcrc" ".ansible/" ".agroexp.yaml~" ".agroexp.yaml" "..." "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/" (22364 9122 0 0) "gdsconsole/" "client/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/" (22600 24524 0 0) "python_utils.clj~" "html.clj~" "html.clj" "gds/" "events.clj~" "events.clj" "core.clj~" "core.clj" "compat/" "../" "./")
+
+ ("/Users/rmuslimov/projects/hyatt/" (22601 64723 0 0) "setup.py" "setup.cfg" "requirements.txt" "requirements.in" "README.rst" "nosetests.xml" "Makefile" "hyatt.egg-info/" "hyatt/" ".ropeproject/" ".jshintrc" ".gitignore" ".git/" ".coverage" ".arclint" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/" (22601 64607 0 0) "setup.py" "setup.cfg" "requirements.txt" "requirements.in" "README.md" "Procfile" "nosetests.xml" "Makefile" "ec2Procfile" "cessna.egg-info/" "cessna/" ".ropeproject/" ".gitignore" ".git/" ".coverage" ".arclint" ".arcconfig" ".arc/" "../" "./")
+
+ ("/var/folders/ty/q1nfz8qn24x_8p27fx7z14yr0000gp/T/edit.eqsdk3weasoow4so/" (22601 64647 0 0) "new-commit" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/templates/pnr_ame/" (22601 63895 0 0) "TK.xml" "SSR.xml" "seat.xml" "RX.xml" "RQ.xml" "RM.xml" "RI.xml" "RF.xml" "OS.xml" "name_element.xml" "FY.xml" "FP.xml" "FM.xml" "aux_hotel.xml" "AP.xml" "AMU.xml" "AM.xml" "AI.xml" "ABU.xml" "AB.xml" "../" "./")
+
+ ("/Users/rmuslimov/projects/hyatt/hyatt/lib/pnr_formatting/" (22601 45687 0 0) "utils.py~" "utils.pyc" "utils.py" "tests/" "syntax.pyc" "syntax.py" "record.py~" "record.pyc" "record.py" "formatter.pyc" "formatter.py" "extra_rules.py~" "extra_rules.pyc" "extra_rules.py" "aux_templates.py~" "aux_templates.pyc" "aux_templates.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/" (22601 63616 0 0) "utils/" "templates/" "settings/" "responses/" "ref_data/" "hotels/" "constants.pyc" "constants.py" "client/" "cli/" "celeryconfig.py" "book/" "basics/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/book/" (22601 63616 0 0) "tests/" "commands/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/book/commands/" (22601 63616 0 0) "utils.pyc" "utils.py" "tests/" "pnr.pyc" "pnr.py" "constants.pyc" "constants.py" "ame.pyc" "ame.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/book/commands/tests/" (22601 63616 0 0) "test_utils.pyc" "test_utils.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/basics/" (22579 33985 0 0) "tests/" "pnr_parser.pyc" "pnr_parser.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/country_remarks/" (22579 33985 0 0) "europe1.pnr" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/" (22601 10696 0 0) "zoe.txt~" "zoe.txt" "yakovlev/" "xml/" "webpack.el/" "utils/" "titan/" "tests/" "testgg/" "testemacs/" "test.py~" "test.py" "target/" "starwood/" "solovyov.clj~" "sigrokeys/" "sigrocloud/" "sigro/" "rum/" "ruby/" "ropeepc/" "rmuslimov/" "resume/" "redux/" "radisson/" "quicksilver/" "python-getting-started/" "Pymacs/" "py-smart-operator/" "protoc-3.0.0-beta-3.1-osx-x86_64/" "protoc/" "playkafka/" "pip/" "phab/" "multikey/" "mcdonnell/" "main.org~" "magnars/" "logstash_hexcodec/" "logstash-2.3.3/" "logstash/" "logs/" "kiries/" "kibana" "kafka-0.10.0.0-src/" "kafka/" "jenkins.el/" "itunes.el/" "ios/" "impala/" "ikarus/" "hyatt/" "hrs/" "homeimages/" "hawker/" "groundtest/" "gottrig/" "git-of-theseus/" "gaylord/" "garden/" "game-of-life/" "fokker-worker-nr-1.log" "fokker-worker-1.log" "fokker-logs.zip" "fokker/" "flycheck-local-flake8/" "fasttrace/" "extract.py~" "extract.py" "export_companies.csv" "exec-path-from-shell/" "esfiles/" "es6/" "eot/" "emacsworkshop/" "emacs-request/" "emacs/" "elisp/" "eagle/" "django-rest-framework/" "delta/" "csvairb/" "cph_report/" "courtyard_data/" "courtyard-importer/" "courtyard/" "clojure/" "clara-rules/" "clara-examples/" "cessna/" "bsddb3-6.1.0/" "bsddb3-6.0.0/" "bsddb3-5.3.0/" "browse-at-remote/" "bowman/" "boeing/" "atlas/" "apollo-125.csv" "airborne/" "agroexpweb/" "agroexptrac/" "agroexpapi/" "agroexp.backup" "agroexp-2507.backup" "ag.el/" "11.xml" "1.TXT~" "1.TXT" "1.py~" "1.py" "1.csv~" "1.csv" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/galactic/cessna/cessna/amadeus/" (22186 43877 0 0) "tasks/" "exceptions.pyc" "exceptions.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/cessna/cessna/amadeus/tasks/" (22564 40364 0 0) "ticket.pyc" "ticket.py" "tests/" "sync.pyc" "sync.py" "seat_map.pyc" "seat_map.py" "search.pyc" "search.py" "check_booking_availability.pyc" "check_booking_availability.py" "book.pyc" "book.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/org/gcps/" (22600 39164 0 0) "transaction.txt" "timesheet.tex~" "timesheet.org~" "timesheet.html~" "timesheet/" "requirements.org~" "requirements.md~" "notes.org~" "notes.org" "MeS_Gateway_v4 14_Jul-2015.pdf" "installation.org~" "hotsyk.txt" "hotsyk.org~" "goal.org~" "goal.org" "galactic.org~" "galactic.org" "flow.tex~" "flow.org~" "flow.org" "flow.html~" "EAN reqs.md" "EAN reqs.html" "daily.org~" "b.txt~" "b.org~" "afflilate.org~" "afflilate.org" "0301.txt~" "0301.org~" "0301.org" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/galactic/cessna/cessna/base_tasks/" (22488 26260 0 0) "ticket.pyc" "ticket.py" "tests/" "sync.pyc" "sync.py" "seat_map.pyc" "seat_map.py" "search.pyc" "search.py" "check_booking_availability.pyc" "check_booking_availability.py" "cc_auth.pyc" "cc_auth.py" "book_ad.pyc" "book_ad.py" "book.pyc" "book.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/cessna/cessna/" (22489 40011 0 0) "zenith/" "web_ui/" "utils/" "tests/" "templatetags/" "templates/" "tasks.pyc" "tasks.py" "static_data/" "settings.pyc" "settings.py" "session_pool/" "session_overflow.py" "send_email.py" "sell_hotel.py" "seatmap/" "search_hotels.py" "search/" "scrape_hotels.py" "run_verb.py" "run_search.py" "process_booking.py" "pnr_retrieve.py" "manual_pnr.py" "manage.py" "local_settings.default" "hotels_available.py" "hotels/" "get_pnr.py" "farelogix/" "exceptions.pyc" "exceptions.py" "details_hotel.py" "celeryconfig.pyc" "celeryconfig.py" "cc_check.py" "book/" "base_tasks/" "asp_emu.py" "amadeus/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/cessna/" (22226 17895 0 0) "setup.py" "requirements.txt" "README.md" "Procfile" "Makefile" "env/" "ec2Procfile" "dowser/" "cessna/" ".ropeproject/" ".gitignore" ".git/" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/galactic/zenith/zenith/" (22241 60972 0 0) "views.py" "utils.py" "urls.py" "templates/" "settings.py" "process/" "payer_data/" "local_settings.py.default" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/zenith/zenith/process/" (22242 3422 0 0) "virtual_merchant/" "views.py" "utils.py" "tests/" "models.py" "migrations/" "esolutions_merchant.py~" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/zenith/zenith/process/virtual_merchant/" (22590 4278 0 0) "old_merchant.py~" "old_merchant.py" "esolutions_merchant.py~" "esolutions_merchant.pyc" "esolutions_merchant.py" "__init__.py~" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/zenith/" (22241 65048 0 0) "zenith/" "requirements.txt" "README.md" "Procfile" "manage.py" "esolutions.py~" "esolutions.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/rmuslimov/galactic/" (22479 10619 0 0) "zenith/" "xmls/" "xml-amadeus/" "xml/" "saab-client/" "saab/" "quicksilver/" "packard/" "northrop/" "mes-python-sdk/" "mcdonnell/" "junkers/" "impala/" "gaylord/" "esolutions/" "eagle/" "courtyard/" "cessna/" "bowman/" "boeing/" "atlas/" "airborne/" ".eagle" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/" (22599 43893 0 0) "wsgi.pyc" "wsgi.py" "webpack.config.babel.js" "target/" "static/" "setup.cfg" "requirements.txt" "requirements.in" "README.rst" "project.clj" "Procfile" "package.json" "nosetests.xml" "node_modules/" "midoffice/" "MANIFEST.in" "manage.py" "Makefile" "maintenance/" "log/" "loadtests/" "jstests.xml" "gunicorn_conf.py" "git-hooks/" "figwheel_server.log" "ec2Procfile" "coverage/" "cljs-dev/" "cert/" "bootstrap.cfg" "airborne/" "airapi/" ".webpack/" ".ropeproject/" ".jshintrc" ".istanbul.yml" ".gitignore" ".gitattributes" ".git/" ".eslintrc" ".eslintignore" ".DS_Store" ".coverage" ".babelrc" ".arclint" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/" (22597 63414 0 0) "utils.pyc" "utils.py" "tests/" "templates/" "tasks.pyc" "tasks.py" "sell.pyc" "sell.py" "search.pyc" "search.py" "responses.pyc" "responses.py" "parsing/" "events.pyc" "events.py" "country_remarks/" "commands.pyc" "commands.py" "checks.pyc" "checks.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/hotels/templates/" (22597 56661 0 0) "Queue_PlacePNR.xml" "Hotel_Sell.xml" "Hotel_PassiveSell.xml" "Hotel_MultiSingleAvailability.xml" "Hotel_List.xml" "Hotel_EnhancedPricing.xml" "Hotel_DescriptiveInfo.xml" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/amadeus/" (22599 39987 0 0) "core.clj" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/travelport/" (22599 43866 0 0) "utils.clj~" "utils.clj" "db.clj" "core.clj~" "core.clj" ".#utils.clj" "#utils.clj#" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/" (22599 39968 0 0) "utils.clj~" "utils.clj" "travelport.clj~" "travelport/" "sabre2.clj~" "sabre.clj~" "sabre/" "base.clj~" "base.clj" "amadeus2.clj~" "amadeus.clj~" "amadeus/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/gds/sabre/" (22599 39974 0 0) "utils.clj~" "utils.clj" "core.clj~" "core.clj" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/gdsconsole/compat/" (22593 38774 0 0) "db.clj~" "db.clj" "crypto.clj~" "crypto.clj" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/" (22364 430 0 0) "gdsconsole/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/" (22563 35385 0 0) "gds/" "compat/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/gds/" (22599 9984 0 0) "travelport/" "sabre_test.clj~" "sabre/" "amadeus_test.clj~" "amadeus.clj~" "amadeus/" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/gds/travelport/" (22599 12221 0 0) "utils_tests.clj~" "utils_test.clj~" "utils_test.clj" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/gds/sabre/" (22599 12176 0 0) "core_test.clj~" "core_test.clj" "core-test.clj~" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/compat/" (22599 10041 0 0) "crypto_test.clj~" "crypto_test.clj" "crypto.clj~" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/test/gdsconsole/gds/amadeus/" (22599 9996 0 0) "core_test.clj~" "core_test.clj" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/deploy/" (22535 59728 0 0) "upstart/" "stage.env~" "readme.md" "gen-versions.sh" "fabfile.py~" "backups.sh~" "backups.sh" "../" "./")
+
+ ("/Users/rmuslimov/org/" (22573 59858 0 0) "todo.org~" "themes/" "theme-bigblow.setup~" "test.org~" "sigro.org~" "sigro.org" "optimizations.org~" "optimizations.html~" "move.org~" "mars.org~" "main.org~" "main.org" "m.org~" "home.org~" "getgoing.org~" "gcps/" "elasticsearch.org~" "daily.org~" "bcdtravel.org~" "bcd/" "arch/" "1.org~" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/utils/" (22580 2165 0 0) "ws_cli.py~" "track_sender.py" "kafka-consumer.py~" "field_sender.py" "example_consumer.py" "create_rover.py" "consumer.py~" "__pycache__/" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/" (22598 29221 0 0) "views.pyc" "views.py" "utils.pyc" "utils.py" "urls.pyc" "urls.py" "tests/" "templatetags/" "templates/" "tasks.pyc" "tasks.py" "sessions.pyc" "sessions.py" "serializers.pyc" "serializers.py" "rules.pyc" "rules.py" "models.pyc" "models.py" "migrations/" "management/" "hyatt_utils.pyc" "hyatt_utils.py" "gds_profile_utils.pyc" "gds_profile_utils.py" "forms.pyc" "forms.py" "fixtures/" "exceptions.pyc" "exceptions.py" "eti/" "direct_api.pyc" "direct_api.py" "decorators.pyc" "decorators.py" "contact_form/" "constants.pyc" "constants.py" "choices.pyc" "choices.py" "api.pyc" "api.py" "admin_forms.pyc" "admin_forms.py" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/frontend/src/components/" (22580 2165 0 0) "ui/" "pages/" "layout/" "App.js" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/settings/" (22580 37897 0 0) "testenv.pyc" "testenv.py" "local.py~" "local.pyc" "local.py" "local.default" "dev.pyc" "dev.py" "default/" "common.pyc" "common.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/frontend/src/reducers/" (22580 2165 0 0) "tracks.js" "trackDebugger.js" "track.js" "index.js" "fields.js" "field.js" "auth.js" "app.js" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/frontend/src/utils/" (22569 28875 0 0) "saga.js" "map.js" "i18next.js~" "i18next.js" "formSaga.js" "formatters.js" "auth.js" "api.js" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/sigrocloud/core/" (22580 2165 0 0) "views.py~" "views.py" "urls.py~" "urls.py" "tests.py~" "tests/" "templatetags/" "templates/" "serializers.py~" "serializers.py" "models.py~" "models.py" "migrations/" "management/" "base.html~" "apps.py~" "apps.py" "api.py~" "api.py" "admin.py~" "admin.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/hotels/views/" (22597 51674 0 0) "utils.pyc" "utils.py" "tests/" "pnr.pyc" "pnr.py" "es.pyc" "es.py" "booking.pyc" "booking.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/hotels/booking/forms/" (22597 51674 0 0) "user.py" "pnr_search.pyc" "pnr_search.py" "payer.pyc" "payer.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/eti/" (22580 37897 0 0) "utils.pyc" "utils.py" "updaters.pyc" "updaters.py" "tspm.pyc" "tspm.py" "tasks.pyc" "tasks.py" "reports.pyc" "reports.py" "constants.pyc" "constants.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/Dropbox/Screenshots/" (22592 46755 0 0) "Screenshot 2016-12-01 17.47.47.png" "Screenshot 2016-11-29 02.37.25.png" "Screenshot 2016-11-23 00.05.48.png" "Screenshot 2016-11-23 00.02.35.png" "Screenshot 2016-11-22 13.00.05.png" "Screenshot 2016-11-22 10.15.34.png" "Screenshot 2016-11-14 22.36.07.png" "Screenshot 2016-11-14 22.36.02.png" "Screenshot 2016-11-14 22.35.54.png" "Screenshot 2016-11-14 18.23.48.png" "Screenshot 2016-11-14 17.17.02.png" "Screenshot 2016-11-14 17.16.55.png" "Screenshot 2016-11-14 17.16.50.png" "Screenshot 2016-11-14 14.08.56.png" "PNR history shows that segment were added by AMY WOOD.png" "KIOZQJ_sabre_history.txt~" "KIOZQJ_sabre_history.txt" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/data/schemas/" (22597 51590 0 0) "UploadSchema.js" "TSPMSettings.js" "TravelportProfile.js" "travelport/" "TotalStaySchema.js" "SpecialRates.js" "SabreProfile.js" "Reporting.js" "RegionalSettings.js" "Region.js" "RateLabeling.js" "RateCodes.js" "QueuesSchema.js" "HRSSchema.js" "HotelLabeling.js" "HotelExclusions.js" "HCorpoSchema.js" "EntityAddModal.js" "EANSchema.js" "CrdSchema.js" "ContactInfo.js" "CbtSettings.js" "AmadeusProfile.js" "AgentsUpload.js" "ad/" "../" "./")
+
+ ("/Users/rmuslimov/galactic/airborne/airborne/partners/" (22571 38250 0 0) "utils.pyc" "utils.py" "tests/" "olset/" "middleware.pyc" "middleware.py" "galactic/" "decorators.pyc" "decorators.py" "context_processors.pyc" "context_processors.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/hyatt/hyatt/params/validators/" (22581 17956 0 0) "preferred_hotels.pyc" "preferred_hotels.py" "json_param.pyc" "json_param.py" "company_locations.pyc" "company_locations.py" "common.pyc" "common.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/management/commands/" (22598 4513 0 0) "watch_companies.py~" "upload_travelport_pcc.py" "update_users_status.py" "update_tspm_profiles.py" "update_travelport_pcc.py" "update_travel_arrangers.py" "update_queue_settings_by_agency.py" "update_queue_settings.py~" "update_queue_settings.py" "update_flag_companies.py~" "update_companies_settings.py~" "update_companies_settings.py" "update_agentflag_companies.py~" "tspm_fields_to_uppercase.pyc" "show_all_companies_without_gds.py" "set_cbt_rate_labeling.py" "revive_lost_bookings.py~" "rename_corporate_locations_settings.py" "remove_travelers.py" "remove_company.py" "regional_fix_inconsistent.py" "preferred_companies_report.py~" "preferred_companies_report.pyc" "preferred_companies_report.py" "ping_travelport_pcc.py" "normalize_channels.py" "move_travel_policy_to_cbt.py" "mock_users_email.py" "migrate_sabre_9_remarks.py" "migrate_rate_out_of_policy.py" "migrate_rate_codes.pyc" "migrate_rate_codes.py" "migrate_queues.py" "migrate_mob_remarks.py" "migrate_ignore_primary_gds.pyc" "migrate_ignore_primary_gds.py" "migrate_hrs_credentials_office_ids.py" "migrate_hotel_labeling.py" "migrate_hotel_exclusions.py" "migrate_hcorpo_remarks.py" "migrate_delete_obsolete_flags.py" "load_companies.py~" "load_companies.py" "link_agents.py" "get_sabre_bookings.py~" "get_sabre_bookings.pyc" "get_gds_bookings.py~" "get_gds_bookings.pyc" "get_gds_bookings.py" "get_companies_by_country.py~" "get_companies_by_country.py" "get_all_rate_codes.py~" "get_all_german_companies.py~" "fix_primary_gds_settings.py" "fix_legal_settings_system.py" "fix_hcorpo_booking_remarks.py" "fix_cbt_setting_system.py" "fix_cbt_homepage_settings.py" "fix_blobs.pyc" "fix_blobs.py" "find_inconsistent_companies.py~" "find_inconsistent_companies.pyc" "find_companies.py~" "export_companies.py~" "export_companies.py" "export_booking_with_profile.py~" "dump_companies.py~" "drop_users.py~" "drop_users.py" "drop_companies.py~" "create_test_clients.pyc" "compare_db.py~" "compare_companies.py~" "companies_move_channel.py" "companies_inherit_channel.py" "companies_fix_default_channel_inheritance.py" "companies_add_hyatt_param.pyc" "companies_add_hyatt_param.py" "build_users_autocomplete.py" "build_companies_autocomplete.pyc" "build_companies_autocomplete.py" "assign_agent_signs_to_office_ids.py" "add_wab_to_travelport.py" "add_default_agent_sign_to_ama_oids.py" "add_bookings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/hyatt/hyatt/params/" (22590 47714 0 0) "xlsx_param.pyc" "xlsx_param.py" "values_mapping.pyc" "values_mapping.py" "validators/" "utils.pyc" "utils.py" "ui_sections.pyc" "ui_sections.py" "tests/" "region_list_param.pyc" "region_list_param.py" "multi_lang_text_param.pyc" "multi_lang_text_param.py" "media_file_param.pyc" "media_file_param.py" "list_param.pyc" "list_param.py" "json_param.pyc" "json_param.py" "file_param.py" "data/" "builders/" "blob_param.pyc" "blob_param.py" "base_param.pyc" "base_param.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/companies/sections/" (22597 51590 0 0) "TSPMAPIProfile.js" "TravelPolicy.js" "TextSettings.js" "SupplierTotalStay.js" "SupplierHrs.js" "SupplierHcorpo.js" "SupplierEan.js" "SpecialRates.js" "SingleCheckbox.js" "Settings.js" "SearchLimit.js" "Regions.js" "RegionalSettings.js" "RateLabeling.js" "RateCodes.js" "Queues.js" "PNRTemplates.js" "PNRFormatting.js" "PasswordManagement.js" "ListSettings.js" "index.js" "ImagesSources.js" "HotelSorting.js" "HotelLabeling.js" "HotelExclusions.js" "GdsConfiguration.js" "Crd.js" "ContactInfo.js" "CompanyLocations.js" "Cbt.js" "Autocomplete.js" "AgencyGdsCredentials.js" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/midoffice/api/views/companies/" (22597 51675 0 0) "validators.pyc" "validators.py" "utils.pyc" "utils.py" "tspm_api_profile.pyc" "tspm_api_profile.py" "trip_advisor.pyc" "trip_advisor.py" "travel_policy.pyc" "travel_policy.py" "special_rates.pyc" "special_rates.py" "sorters.pyc" "sorters.py" "serializers.pyc" "serializers.py" "regional_settings.pyc" "regional_settings.py" "rate_exclusions.pyc" "rate_exclusions.py" "rate_codes.pyc" "rate_codes.py" "queues.pyc" "queues.py" "providers_configuration.pyc" "providers_configuration.py" "pnr_formatting.pyc" "pnr_formatting.py" "password_management.pyc" "password_management.py" "labeling.pyc" "labeling.py" "image_sources.pyc" "image_sources.py" "hotel_exclusion.pyc" "hotel_exclusion.py" "filters.pyc" "filters.py" "crd.pyc" "crd.py" "company_settings.pyc" "company_settings.py" "company_locations.pyc" "company_locations.py" "company.pyc" "company.py" "client_hotels.pyc" "client_hotels.py" "base.pyc" "base.py" "autocomplete.pyc" "autocomplete.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/fokker/fokker/hotels/" (22597 51692 0 0) "utils.pyc" "utils.py" "tests/" "templates/" "tasks.pyc" "tasks.py" "sell.py~" "sell.pyc" "sell.py" "parsing/" "events.pyc" "events.py" "constants.pyc" "constants.py" "availability.pyc" "availability.py" "actions.pyc" "actions.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/radisson/radisson/" (22590 49294 0 0) "utils.pyc" "utils.py" "tuple.pyc" "tuple.py" "translators.pyc" "translators.py" "tests/" "tasks.pyc" "tasks.py" "states.pyc" "states.py" "schemas/" "response.pyc" "response.py" "query.pyc" "query.py" "profiler.pyc" "profiler.py" "exceptions.pyc" "exceptions.py" "diff_tool/" "decorators.pyc" "decorators.py" "converters.pyc" "converters.py" "constants.pyc" "constants.py" "cache.pyc" "cache.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/newforms/" (22597 51590 0 0) "widgets/" "validators.js" "validators/" "schema.js" "schema-stateless.js" "index.js" "helpers.js" "forms.js" "fields.js" "fields-stateless.js" "exceptions.js" "decorators.js" "constants.js" "components/" "compat.js" "boundFields.js" "../" "./")
+
+ ("/Users/rmuslimov/projects/quicksilver/quicksilver/pgcrypto/" (22490 46761 0 0) "utils.pyc" "utils.py" "tests.pyc" "tests.py" "settings.pyc" "settings.py" "management/" "key_management.pyc" "key_management.py" "encrypt.pyc" "encrypt.py" "decrypt.pyc" "decrypt.py" "constants.pyc" "constants.py" "configurator.pyc" "configurator.py" "cipher.pyc" "cipher.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/xml/" (22575 54182 0 0) "zrh-doesnt-work/" "wsp-hcorpo-remark/" "wsp-hcorpo-booking/" "wsp-850/" "working-single-hrs-msa/" "wartsilla-2/" "two.xml" "try-hrs-daimler/" "testfirst.xml" "test-wartzila/" "sell-twice/" "sabrefailed/" "sabre-sorting/" "sabre-segments-in-order/" "sabre-pic-queue/" "sabre-no-pic/" "sabre-dbi/" "sabre-27-sorting/" "sabre-16.txt" "sabre-15.txt" "sabre-14.txt" "sabre-13103/" "sabre-12.txt" "sabre-11.txt" "rq.xml" "request-d659b74.json" "request-d5e293d.json" "one.xml" "multikey-tests/" "multikey-see-warnings/" "limit-fokker-rs.xml" "lei.xml" "hrs-xml/" "hrs-working-msa/" "hrs-test-search/" "hrs-test-code/" "hrs-simplified-example/" "hrs-rate-not-available/" "hrs-prod/" "hrs-msa-for-single-hotel-fail/" "hrs-failing-creating-pnr/" "hrs-cvv-required/" "hrs-card-address-required/" "hrs-cache-example/" "hrs-booking-worked/" "hrs-booking-tests/" "HCORPO-REMARKS/" "fp-tests/" "ff-mileage/" "er30/" "ean-failing-cancellation/" "double-er-which-works/" "dist.xml" "different-codes/" "cancel-with-arunk/" "assoc/" "apollo-login-problems/" "apollo-bad-offices/" "apollo/" "amadeus-warnings/" "amadeus-ps2/" "amadeus-ps-xml/" "amadeus-multiRO/" "amadeus-long-aux/" "amadeus-fp-tries/" "amadeus-failing-hotelrate/" "amadeus-doubleer-warning/" "7TAW/" "4.csv" "3.csv~" "3.csv" "16Nov.csv" "15-nov.csv" "14-nov.csv~" "14-nov.csv" "10850-failing/" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/fokker/fokker/hotels/parsing/tests/" (22597 51692 0 0) "utils.pyc" "utils.py" "test_sell.pyc" "test_sell.py" "test_search.pyc" "test_search.py" "responses/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/static/midoffice/js/data/" (22597 51590 0 0) "Users.js" "UserFilter.js" "UserEdit.js" "types/" "TreeAutocomplete.js" "Tree.js" "TravelPolicyTextSchema.js" "TravelPolicyRule.js" "TravelPolicy.js" "store/" "Singleton.js" "SettingsSchema.js" "SelectedFilters.js" "schemas/" "pnrTool.js" "PasswordSchema.js" "Pagination.js" "OIDPCC.js" "Metadata.js" "ManagedTravelerForm.js" "LocalHashAutocomplete.js" "LocalAutocomplete.js" "LegalSchema.js" "Languages.js" "HotelAndChainAutocomplete.js" "GdsSchema.js" "FilterItems.js" "filterFields.js" "FilteredCollection.js" "Entities.js" "Destination.js" "Currencies.js" "CountryAutocomplete.js" "CollectionParams.js" "Codes.js" "CampaignEdit.js" "Bookings.js" "BookingFilter.js" "AuditLogs.js" "AuditLogFilter.js" "AdSchema.js" "adapters/" "actions/" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/midoffice/api/views/" (22598 29222 0 0) "validators.pyc" "validators.py" "users/" "reporting.pyc" "reporting.py" "regions.pyc" "regions.py" "pnr_tool.pyc" "pnr_tool.py" "mixins.pyc" "mixins.py" "legal.pyc" "legal.py" "entity_utils.pyc" "entity_utils.py" "datastore.pyc" "datastore.py" "companies/" "bookings.pyc" "bookings.py" "base_viewsets.pyc" "base_viewsets.py" "base_serializers.pyc" "base_serializers.py" "base_parsers.py~" "auditlogs.pyc" "auditlogs.py" "analytics.pyc" "analytics.py" "agencies/" "advertising.pyc" "advertising.py" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/.ssh/" (22597 64628 0 0) "udio.pub" "phab_rsa.pub" "phab_rsa" "known_hosts~" "known_hosts.old" "known_hosts" "id_rsa_old.pub" "id_rsa_old" "id_rsa.pub" "id_rsa" "haron_id_rsa.pub" "haron_id_rsa" "config~" "config" "../" "./")
+
+ ("/Users/rmuslimov/projects/courtyard/courtyard/" (22538 4128 0 0) "utils.pyc" "utils.py" "tests/" "test_hotels/" "storage/" "state.pyc" "state.py" "settings.pyc" "settings.py" "schema/" "regions.pyc" "regions.py" "params.pyc" "logger.pyc" "hotel.pyc" "hotel.py" "geoutils.pyc" "geoutils.py" "exceptions.pyc" "exceptions.py" "es_wrapper.pyc" "es_wrapper.py" "downloader.pyc" "downloader.py" "datastore.pyc" "datastore.py" "constants.pyc" "constants.py" "configurator.pyc" "configurator.py" "checking.pyc" "checking.py" "bdb/" "autocomplete/" "amenities/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/courtyard/" (22538 4128 0 0) "setup.py" "setup.cfg~" "setup.cfg" "requirements.txt" "requirements.in" "README.rst" "nosetests.xml" "MANIFEST.in" "Makefile" "courtyard.egg-info/" "courtyard/" "1.json~" ".ropeproject/" ".gitignore" ".git/" ".coverage" ".arclint" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airapi/" (22580 37897 0 0) "playground/" "apicore/" "api_urls.pyc" "api_urls.py" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/" (22580 40093 0 0) "urls.pyc" "urls.py" "test_tools.pyc" "test_tools.py" "starwood.db" "settings/" "profile.py" "midoffice_urls.pyc" "midoffice_urls.py" "media/" "locale/" "hotels/" "core/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/core/" (22580 37897 0 0) "utils/" "templatetags/" "templates/" "tasks.pyc" "tasks.py" "static_data/" "smart_app/" "rest/" "middlewares/" "management/" "i18n/" "home/" "emails/" "db/" "contexts/" "context_processors.pyc" "context_processors.py" "advertising/" "admin_dashboard/" "accounts/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/airborne/airborne/core/accounts/management/" (22580 37897 0 0) "commands/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/org/gcps/timesheet/" (22597 63390 0 0) "timesheet4.org~" "timesheet4.org" "timesheet3.tex~" "timesheet3.tex" "timesheet3.org~" "timesheet3.org" "timesheet2.tex~" "timesheet2.tex" "timesheet2.pdf" "timesheet2.org~" "timesheet2.org" "timesheet.tex~" "timesheet.tex" "timesheet.org~" "timesheet.org" "timesheet.html~" "timesheet-092316.pdf" "timesheet-072116.pdf" "timesheet-032516.pdf" "timesheet-031416.pdf" "postings.txt" "../" "./")
+
+ ("/Users/rmuslimov/galactic/airborne/airborne/" (22534 21904 0 0) "urls.pyc" "urls.py" "static/" "settings/" "profile.py" "partners/" "packages/" "media/" "locale/" "hotels/" "flights/" "core/" "agents/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/responses/" (22597 54499 0 0) "tests/" "single_msa.pyc" "single_msa.py" "ota_const.pyc" "ota_const.py" "multi_msa.pyc" "multi_msa.py" "hotel_descriptive_info.pyc" "hotel_descriptive_info.py" "exceptions.pyc" "exceptions.py" "error_codes.pyc" "error_codes.py" "ep.pyc" "ep.py" "base.pyc" "base.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/cessna/cessna/client/" (22597 54499 0 0) "wsdl/" "utils.pyc" "utils.py" "tests/" "response.pyc" "client.pyc" "client.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/org/bcd/" (22597 51797 0 0) "tmps/" "optimizations.org~" "optimizations.md~" "optimizations.html~" "main.org~" "main.org" "home.org~" "home.org" "daily.org" "bcdtravel.org~" "bcdtravel.org" "../" "./")
+
+ ("/Users/" (22575 56322 0 0) "Shared/" "rmuslimov/" "admin/" ".localized" "../" "./")
+
+ ("/Users/rmuslimov/projects/radisson/radisson/schemas/" (22571 35574 0 0) "validators.pyc" "validators.py" "utils.pyc" "utils.py" "tests/" "test_credentials/" "save_hrs_credentials/" "save_gds_pnr/" "retrieve_gds_pnr_cryptic/" "retrieve_gds_pnr/" "receive_hotel_rates/" "hotels_rates/" "hotels_list/" "hotel_rates/" "hotel_rate_details/" "hotel_rate/" "hotel_info/" "hotel_cryptic_rate/" "hotel_booking/" "devastate_gds_pnr/" "create_gds_pnr/" "common.pyc" "common.py" "check_placing_to_queue/" "cancel_reservation/" "book_reservation/" "airapi/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/galactic/airborne/airborne/hotels/hotel_ui/templates/jstmpl/hotels/" (22562 22121 0 0) "unavailable_hotel.html" "trip_advisor_filter.html" "stars_filter.html" "room_table_default.html" "room_table_bcd.html" "region_name.html" "rate_preferences_filter.html" "rate_filter.html" "radiobutton_filter.html" "quickview.html" "quick_map_modal_container.html" "promotions_filter.html" "name_filter_autocompletion.html" "name_filter.html" "map_modal_legend.html" "map_modal_hotel_info.html" "map_modal_container.html" "map_modal.html" "list_pagination.html" "list_item.html" "landmark_filter.html" "hotels_weather_planer.html" "hotels_list_sorter.html" "hotels_counter.html" "hotel_details_subheader.html" "hotel_details_room_price_galactic.html" "hotel_details_room_price_default.html" "hotel_details_room_price_bcd.html" "hotel_details_room.html" "hotel_details_recommended_hotel.html" "hotel_details_prices.html" "hotel_details_policies_and_fees.html" "hotel_details_policies.html" "hotel_details_map_info.html" "hotel_details_important_info.html" "hotel_details_header.html" "hotel_details_availability.html" "hotel_details_all_amenities.html" "hotel_details_about.html" "hotel_detail_availability_promo_bcd.html" "hotel_detail_availability_promo.html" "hotel_amenities.html" "gallery.html" "facebook_friends.html" "checkbox_filter.html" "booking_panel.html" "advisor_reviews_modal.html" "advisor_rating.html" "../" "./")
+
+ ("/Users/rmuslimov/projects/sigrocloud/" (22591 15290 0 0) "~/" "venv/" "utils/" "static/" "sigrocloud/" "share/" "setup.cfg~" "setup.cfg" "requirements.txt" "readme.md~" "readme.md" "Procfile~" "Procfile" "manage.py" "Makefile~" "Makefile" "locale/" "keys/" "frontend/" "fabfile.py~" "fabfile.py" "dist/" "deploy/" "agroexpapi/" "__pycache__/" ".gitmodules" ".gitignore~" ".gitignore" ".git/" ".arcconfig~" "../" "./")
+
+ ("/Users/rmuslimov/galactic/airborne/" (22453 42739 0 0) "wsgi.pyc" "wsgi.py" "setup.py" "requirements.txt" "README.rst" "Procfile" "package.json" "node_modules/" "MANIFEST.in" "manage.py" "Makefile" "log/" "loadtests/" "gunicorn_conf.py" "ec2Procfile" "data/" "cert/" "airborne/" ".ropeproject/" ".jshintrc" ".gitignore" ".gitattributes" ".git/" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/galactic/airborne/airborne/partners/galactic/" (22588 45492 0 0) "utils.pyc" "utils.py" "urls.pyc" "urls.py" "tests/" "templatetags/" "templates/" "models.pyc" "models.py" "migrations/" "exceptions.pyc" "exceptions.py" "client.pyc" "client.py" "api.pyc" "api.py" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/projects/quicksilver/" (22590 48725 0 0) "tox.ini" "setup.py" "setup.cfg" "requirements.txt" "requirements.in" "README.rst" "quicksilver.egg-info/" "quicksilver/" "nosetests.xml" "Makefile" ".ropeproject/" ".hypothesis/" ".gitignore" ".git/" ".coverage" ".arclint" ".arcconfig" ".arc/" "../" "./")
+
+ ("/Users/rmuslimov/projects/quicksilver/quicksilver/sessions/" (22590 49278 0 0) "tests/" "session.pyc" "session.py" "responses/" "pool.pyc" "pool.py" "manager.pyc" "manager.py" "context.pyc" "context.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/rmuslimov/.emacs.d/.cask/" (22373 26506 0 0) "25.0.95.1/" "24.5.1/" "../" "./")
+
+ ("/Users/rmuslimov/.emacs.d/.cask/25.0.95.1/" (22458 47325 0 0) "elpa/" "bootstrap/" "../" "./")
+
+ ("/Users/rmuslimov/.emacs.d/.cask/25.0.95.1/elpa/" (22566 12110 0 0) "yasnippet-20161109.1847/" "with-editor-20161109.403/" "web-mode-20161106.132/" "virtualenvwrapper-20161002.1515/" "traad-20161010.152/" "tern-20160817.522/" "spinner-1.7.1/" "spark-20160414.1901/" "smex-20151212.1409/" "smart-mode-line-20160818.508/" "seq-2.19.signed" "seq-2.19/" "s-20160928.636/" "rich-minority-20160725.1255/" "request-deferred-20160419.1605/" "request-20160822.1659/" "queue-0.1.1/" "pyvenv-20160527.442/" "pythonic-20160221.1123/" "python-environment-20150310.153/" "projectile-20161108.729/" "prodigy-20160929.2302/" "popup-20160709.729/" "pkg-info-20150517.443/" "peg-20150707.2341/" "paredit-20160615.1325/" "nameless-20161012.1214/" "multiple-cursors-20161021.1431/" "markdown-mode-20160928.932/" "magit-popup-20161009.1506/" "magit-20161105.1602/" "js2-mode-readme.txt" "js2-mode-20161025.1012/" "jenkins-20160903.1556/" "inflections-20161017.157/" "ido-vertical-mode-20160429.1037/" "ido-ubiquitous-20160623.815/" "ido-completing-read+-20160623.815/" "ido-at-point-20151021.57/" "hydra-20160913.216/" "gnupg/" "git-commit-20161108.1335/" "flycheck-20161111.222/" "f-20161002.800/" "exec-path-from-shell-20160812.159/" "es-mode-20161103.1024/" "epl-20150517.433/" "epc-20140609.2234/" "edn-20160215.419/" "edit-server-20141231.1358/" "deferred-20160109.2046/" "dash-functional-20160615.1351/" "dash-20161108.352/" "ctable-20140304.1659/" "concurrent-20160109.2046/" "company-tern-readme.txt" "company-tern-20161004.1147/" "company-20160829.1206/" "clojure-mode-20161105.2359/" "clj-refactor-20161005.344/" "cider-20161016.424/" "browse-kill-ring-20160125.9/" "browse-kill-ring+-20151231.1221/" "beacon-20161004.756/" "bash-completion-20150514.728/" "avy-20160814.250/" "autopair-20160304.437/" "async-20161103.1036/" "archives/" "anaconda-mode-20161028.29/" "ag-20161027.1758/" "../" "./")
+
+ ("/Users/rmuslimov/.emacs.d/.cask/25.0.95.1/elpa/cider-20161016.424/" (22566 12108 0 0) "nrepl-dict.elc" "nrepl-dict.el" "nrepl-client.elc" "nrepl-client.el" "cider.elc" "cider.el" "cider-util.elc" "cider-util.el" "cider-test.elc" "cider-test.el" "cider-stacktrace.elc" "cider-stacktrace.el" "cider-selector.elc" "cider-selector.el" "cider-scratch.elc" "cider-scratch.el" "cider-resolve.elc" "cider-resolve.el" "cider-repl.elc" "cider-repl.el" "cider-popup.elc" "cider-popup.el" "cider-pkg.el" "cider-overlays.elc" "cider-overlays.el" "cider-mode.elc" "cider-mode.el" "cider-macroexpansion.elc" "cider-macroexpansion.el" "cider-interaction.elc" "cider-interaction.el" "cider-inspector.elc" "cider-inspector.el" "cider-grimoire.elc" "cider-grimoire.el" "cider-eldoc.elc" "cider-eldoc.el" "cider-doc.elc" "cider-doc.el" "cider-debug.elc" "cider-debug.el" "cider-compat.elc" "cider-compat.el" "cider-common.elc" "cider-common.el" "cider-client.elc" "cider-client.el" "cider-classpath.elc" "cider-classpath.el" "cider-browse-ns.elc" "cider-browse-ns.el" "cider-autoloads.el" "cider-apropos.elc" "cider-apropos.el" "../" "./")
+
+ ("/Users/rmuslimov/projects/fokker/fokker/" (22590 48843 0 0) "utils/" "settings/" "sessions/" "ref_data/" "hotels/" "docx.py~" "constants.pyc" "constants.py" "cli/" "celery.pyc" "celery.py" "basics/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/rmuslimov/projects/yakovlev/src/client/" (22593 43654 0 0) "web.clj~" "web.cljs~" "web.cljs" "utils.cljs~" "utils.cljs" "db.cljs~" "db.cljs" "components/" "communication.cljs~" "channels.cljs~" "channel.js~" "../" "./")
+
+ ("/Users/rmuslimov/projects/clara-examples/" (22593 59964 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "NOTICE" "LICENSE" "doc/" "CONTRIBUTORS.md" "CONTRIBUTING.md" ".nrepl-port" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/rmuslimov/projects/clara-examples/src/" (22593 59916 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/rmuslimov/projects/clara-examples/src/main/" (22593 59598 0 0) "java/" "clojurescript/" "clojure/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

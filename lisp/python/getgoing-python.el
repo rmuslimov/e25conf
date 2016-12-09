@@ -4,7 +4,7 @@
   (list 'airborne 'bowman 'cessna 'fokker 'fasttrace 'atlas))
 
 (defconst dependency-projects
-  (list 'hyatt 'quicksilver 'radisson 'courtyard 'atlas 'boeing 'mcdonnell))
+  (list 'hyatt 'quicksilver 'radisson 'courtyard 'atlas 'boeing 'mcdonnell 'fasttrace))
 
 (defun getgoing--project-path (project)
   (f-join "~/projects" (symbol-name project)))

@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("utils.py"
+ (filename . "~/projects/fokker/fokker/sessions/utils.py")
+ (front-context-string . "e('(0?)/?([A-Z]{")
+ (rear-context-string . " ptn = re.compil")
+ (position . 1613))
+)
